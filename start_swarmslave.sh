@@ -1,4 +1,3 @@
-:q!
 #!/bin/bash
 #
 # Jenkins-swarm Startup script for the Jenkins Swarm Slave
